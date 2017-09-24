@@ -3748,6 +3748,11 @@ body.proj-menu-open .site-header {
   animation: stagger-in .375s 3s ease forwards;
 }
 
+.definition.scroll-watch-in-view dd:nth-child(5) {
+  -webkit-animation: stagger-in .375s 3s ease forwards;
+  animation: stagger-in .375s 3s ease forwards;
+}
+
 @-webkit-keyframes definition-slide-here {
   0% {
     -webkit-transform: translate(-10px);
