@@ -18,7 +18,7 @@
 }
 .definition dd {
   opacity: 0;
-  animation: stagger-in 1s 2s ease forwards;
+  animation: stagger-in 2s 3s ease forwards;
 }
 .definition dd:nth-child(2) {
   animation: stagger-in 0.5s 2.8s ease forwards;
