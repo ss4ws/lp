@@ -1,0 +1,414 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"c",
+				"class"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"Font",
+				"font-family"
+			],
+			[
+				"ss",
+				"ss4ws"
+			],
+			[
+				"S",
+				"Simotas"
+			],
+			[
+				"split",
+				"splitLower"
+			],
+			[
+				"all",
+				"all_links"
+			],
+			[
+				"s",
+				"stop"
+			],
+			[
+				"re",
+				"response"
+			],
+			[
+				"tiers",
+				"tiers_livre"
+			],
+			[
+				"tir",
+				"tiers_livre"
+			],
+			[
+				"tie",
+				"tiers_livre"
+			],
+			[
+				"al",
+				"all_links"
+			],
+			[
+				"a",
+				"all_links"
+			],
+			[
+				"html",
+				"html_doc"
+			],
+			[
+				"fr",
+				"French"
+			],
+			[
+				"count",
+				"country_data"
+			],
+			[
+				"country",
+				"country_code"
+			],
+			[
+				"get",
+				"get_country_data"
+			],
+			[
+				"pa",
+				"params"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"fot",
+				"font-size"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"ima",
+				"image"
+			],
+			[
+				"pre",
+				"previewPic"
+			],
+			[
+				"image",
+				"image_source"
+			],
+			[
+				"i",
+				"image"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"name",
+				"getElementsByTagName"
+			],
+			[
+				"p",
+				"p\tTag"
+			],
+			[
+				"fi",
+				"figure\tTag"
+			],
+			[
+				"pr",
+				"progress\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"h",
+				"h2\tTag"
+			],
+			[
+				"su",
+				"summary\tTag"
+			],
+			[
+				"met",
+				"meter\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/ss4ws/Documents/GitRepos/comma/CNAME",
+		"/Users/ss4ws/Documents/GitHubReps/Comma/_config.yml",
+		"/Users/ss4ws/Dropbox/DISSERTATION WORD/Œuvres_Transmédiatiques _François_Bon",
+		"/Users/ss4ws/Box Sync/DISSERTATION_WORD/lAutofictif16_17.md",
+		"/Users/ss4ws/Documents/GitHubReps/jekyll-tachyons/_config.yml",
+		"/Users/ss4ws/Documents/GitHubReps/jekyll-tachyons/_layouts/post.html",
+		"/Users/ss4ws/Documents/GitHubReps/jekyll-tachyons/_layouts/page.html",
+		"/Users/ss4ws/Documents/GitHubReps/jekyll-tachyons/assets/css/tachyons.min.css",
+		"/Users/ss4ws/Documents/GitHubReps/jekyll-tachyons/_site/index.html",
+		"/Users/ss4ws/Box Sync/Links/TiersLivreLinks/tiersLivreInternalLinks.txt",
+		"/Users/ss4ws/Documents/GitHubReps/LandingPage/header.js",
+		"/Users/ss4ws/Box Sync/Links/linksNotes.md",
+		"/Users/ss4ws/Box Sync/DHSI2017/PYTHON/get_links/GetLinks/get_links_varun.py",
+		"/Users/ss4ws/Documents/GitHubReps/Site/_config.yml",
+		"/Users/ss4ws/Documents/GitHubReps/LandingPage/time.html",
+		"/Users/ss4ws/Documents/GitHubReps/Site/_sass/minima.scss",
+		"/Users/ss4ws/Documents/GitHubReps/Site/_site/index.html",
+		"/Users/ss4ws/Documents/GitHubReps/ePortfolio/_config.yml",
+		"/Users/ss4ws/Box Sync/JobMarketMaterials/CV_Markdown/CV_17.md",
+		"/Users/ss4ws/Documents/LaTeX Examples (Will Robertson)/1. LaTeX Fundamentals/Document_Structure.tex",
+		"/Users/ss4ws/Downloads/Current_CV.tex",
+		"/Users/ss4ws/Desktop/DHSI2017/PYTHON/get_links/get_links_tierslivre.py",
+		"/Users/ss4ws/Desktop/DHSI2017/PYTHON/get_links/get_links_dsordre.py",
+		"/Users/ss4ws/Desktop/DHSI2017/PYTHON/defsplitLower.py",
+		"/Users/ss4ws/Desktop/DHSI2017/PYTHON/get_links/get_links.py",
+		"/Users/ss4ws/Desktop/DHSI2017/PYTHON/quotes_spider.py",
+		"/Users/ss4ws/Desktop/DHSI2017/PYTHON/get_links_program.py",
+		"/Users/ss4ws/Desktop/DHSI2017/PYTHON/WebScraper.py",
+		"/Users/ss4ws/Desktop/DHSI2017/PYTHON/scrapy_test.py",
+		"/Users/ss4ws/Desktop/DHSI2017/PYTHON/files.txt",
+		"/Users/ss4ws/Documents/GitHubReps/PersPage/Resume/_site/index.html",
+		"/Users/ss4ws/Documents/GitHubReps/PersPage/Resume/Gemfile",
+		"/Users/ss4ws/Documents/GitHubReps/PersPage/Gemfile",
+		"/Users/ss4ws/Desktop/DHSI2017/PYTHON/webscraper.py",
+		"/Users/ss4ws/Downloads/modele-memoire-latex-dllf/memoire.tex",
+		"/Users/ss4ws/Downloads/modele-memoire-latex-dllf/titres/titre.tex",
+		"/Users/ss4ws/Downloads/modele-memoire-latex-dllf/titres/garde.tex",
+		"/Users/ss4ws/Downloads/modele-memoire-latex-dllf/titres/abstract.tex",
+		"/Users/ss4ws/isatoms/config.toml",
+		"/Users/ss4ws/Box Sync/JOB APPLICATIONS MATERIALS/Curriculum Vitæ_March 2017.html",
+		"/Users/ss4ws/Desktop/CV.html",
+		"/Users/ss4ws/Desktop/ss4ws.html",
+		"/Users/ss4ws/Desktop/isatoms_index.html",
+		"/Users/ss4ws/Desktop/Desktop Organization/COURSERA_CODING/HTML5/CSS3/peerhw1.css",
+		"/Users/ss4ws/Downloads/webslides/demos/le sens et les sens.html",
+		"/Users/ss4ws/Downloads/webslides/demos/keynote copy.html",
+		"/Users/ss4ws/Downloads/webslides/demos/keynote.html",
+		"/Users/ss4ws/Desktop/Simotas_profile.html",
+		"/Users/ss4ws/Desktop/Desktop Organization/COURSERA_CODING/HTML5/FinalProject.html",
+		"/Users/ss4ws/Desktop/Desktop Organization/COURSERA_CODING/HTML5/Index Page.html",
+		"/private/var/folders/ym/pmrvzv993psc1c4w4dvbwg180000gn/T/com.soulmen.ulysses3/b7932e800edf416ebbe53bf4c283abde/4489f641908d47e69764816ff144626f/RichText/Academic Paper.ulss",
+		"/private/var/folders/ym/pmrvzv993psc1c4w4dvbwg180000gn/T/com.soulmen.ulysses3/b7932e800edf416ebbe53bf4c283abde/f20a5f582f8640b9b401c1caaf5d0cb7/RichText/Chicago Style.ulss",
+		"/Users/ss4ws/Downloads/Ex_Files_FoP_Fun/Exercise Files/ch02/First/script.js",
+		"/Users/ss4ws/Downloads/Ex_Files_FoP_Fun/Exercise Files/ch02/First/container.html",
+		"/Users/ss4ws/Downloads/TextClassification_spring2017/text_classification_part_three.py",
+		"/private/var/folders/ym/pmrvzv993psc1c4w4dvbwg180000gn/T/com.soulmen.ulysses3/ce0913dde8f14ee48360b9754f413bdb/e72c6d721fb54841a93b0d02ff600732/RichText/Clean.ulss",
+		"/Volumes/boot/timelapse.sh",
+		"/private/var/folders/ym/pmrvzv993psc1c4w4dvbwg180000gn/T/com.soulmen.ulysses3/3781ef53a4934b6394a109b8652f0045/f20a5f582f8640b9b401c1caaf5d0cb7/RichText/Chicago Style.ulss",
+		"/Users/ss4ws/Desktop/world_data.py",
+		"/Volumes/Wearable Camera/timelapse.sh",
+		"/Users/ss4ws/Documents/a-minuscule-comma/_posts/2016-12-30-Haiku-12.md",
+		"/Users/ss4ws/Documents/a-minuscule-comma/_posts/2017-01-12-Haiku-13.mdown",
+		"/Users/ss4ws/Documents/a-minuscule-comma/_posts/2016-12-18-Haiku-11.md",
+		"/Users/ss4ws/Documents/a-minuscule-comma/_posts/2016-12-18-Haiku-8.md",
+		"/Users/ss4ws/Documents/a-minuscule-comma/_site/index.html",
+		"/Users/ss4ws/isatoms/_config.yml",
+		"/Users/ss4ws/Desktop/COURSERA_CODING/HTML5/CSS3/hw1.css",
+		"/Users/ss4ws/Desktop/COURSERA_CODING/HTML5/FinalProject.html",
+		"/Users/ss4ws/Desktop/COURSERA_CODING/CSS3/hw1.css",
+		"/Users/ss4ws/Desktop/COURSERA_CODING/JAVA SCRIPT/WEEK2_HW/js/gallery.js",
+		"/Users/ss4ws/Desktop/COURSERA_CODING/JAVA SCRIPT/WEEK2_HM/css/gallery.css",
+		"/Users/ss4ws/Desktop/COURSERA_CODING/JAVA SCRIPT/WEEK2_HM/gallery.html",
+		"/Users/ss4ws/Desktop/COURSERA_CODING/JAVA SCRIPT/WEEK2_HM/js/gallery.js",
+		"/Users/ss4ws/Desktop/COURSERA_CODING/JAVA SCRIPT/WEEK2_HM/galery.js",
+		"/Users/ss4ws/Desktop/COURSERA_CODING/JAVA SCRIPT/WEEK2_HM/HW2.html",
+		"/Users/ss4ws/Desktop/COURSERA_CODING/JAVA SCRIPT/WEEK2_HM/CSS/style.css",
+		"/Users/ss4ws/Desktop/COURSERA_CODING/JAVA SCRIPT/script2.html",
+		"/Users/ss4ws/Desktop/COURSERA_CODING/CSS3/hw1.html",
+		"/Users/ss4ws/Desktop/COURSERA_CODING/CSS3/together-1.css",
+		"/Users/ss4ws/ss4ws.github.io/index.html",
+		"/Users/ss4ws/isatoms/index.html",
+		"/Users/ss4ws/Downloads/tufte-jekyll-master/_config.yml",
+		"/Users/ss4ws/Downloads/tufte-jekyll-master/_includes/footer.html",
+		"/Users/ss4ws/Downloads/tufte-jekyll-master/_includes/header.html",
+		"/Users/ss4ws/Downloads/ed-master/_config.yml",
+		"/Users/ss4ws/Downloads/book-master/_config.yml",
+		"/Users/ss4ws/Desktop/COURSERA_CODING/JAVA SCRIPT/practice.html",
+		"/Users/ss4ws/Desktop/HTML_COURSERA/FinalProject.html",
+		"/Users/ss4ws/Desktop/HTML_COURSERA/Index Page.html",
+		"/Users/ss4ws/Desktop/HTML_COURSERA/FirstPage.html"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 112.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 232.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
