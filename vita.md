@@ -3,7 +3,6 @@ title: "Curriculum Vitæ"
 author:
 - Spyros Simotas
 - ss4ws@virginia.edu
-date: "9/28/2017"
 ---
 
 
